@@ -11,6 +11,8 @@
 ![Mumu](image/3.png)
 ## 5. Jangan Lupa Klik Change Variable Name Tulis (jTextArea1) 
 ![Mumu](image/4.png)
-## 5. Jangan Lupa Klik Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed]
+## 5. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed]
 ![Mumu](image/5.png)
+## 6.
+![Mumu](image/6.png)
 
