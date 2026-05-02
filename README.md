@@ -19,7 +19,7 @@
 ![Mumu](image/7.png)
 ## 9. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Pembagian 
 ![Mumu](image/8.png)
-## 9. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Hapus
+## 10. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Hapus
 ![Mumu](image/9.png)
 
 
