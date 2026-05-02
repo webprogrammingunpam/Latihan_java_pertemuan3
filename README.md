@@ -11,8 +11,16 @@
 ![Mumu](image/3.png)
 ## 5. Jangan Lupa Klik Change Variable Name Tulis (jTextArea1) 
 ![Mumu](image/4.png)
-## 5. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Pertambahan
+## 6. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Pertambahan
 ![Mumu](image/5.png)
-## 6. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Pengurangan 
+## 7. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Pengurangan 
 ![Mumu](image/6.png)
+## 8. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Perkalian 
+![Mumu](image/7.png)
+## 9. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Pembagian 
+![Mumu](image/8.png)
+## 9. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code Hasil 
+![Mumu](image/9.png)
+
+
 
