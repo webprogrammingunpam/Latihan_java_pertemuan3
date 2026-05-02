@@ -8,5 +8,7 @@
 ## 3. Jangan Lupa Klik Change Variable Name Tulis (jTextField1) 
 ![Mumu](image/2.png)
 ## 4. Jangan Lupa Klik Change Variable Name Tulis (jTextField2) 
-![Mumu](image/2.png)
+![Mumu](image/3.png)
+## 4. 
+![Mumu](image/4.png)
 
